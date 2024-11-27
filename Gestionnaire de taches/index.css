@@ -1,0 +1,55 @@
+body {
+
+    background-color: rgb(55, 78, 103);
+}
+
+.banner {
+    background-color: rgb(55, 78, 103);
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.bouton{
+    display: flex;
+    width: 61px;
+    height: 22px;
+    background-color: #2ca482;
+    text-decoration-color: #69de3e;
+    border-radius: 0px;
+    justify-content: center;
+    align-items: center;
+}
+.tache{
+    min-width: 400px;
+    background-color: antiquewhite;
+    margin: 4px;
+    border: #8c6b3f75 solid 1px;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.sec1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+ul li{
+  border-radius: 1%;
+  border-color: rgb(174, 26, 26);
+  background-color: #407f6d;
+  padding: 25%;
+  margin: 8%;
+  height: 5%;
+  width: 206%;
+  list-style: none;
+}
