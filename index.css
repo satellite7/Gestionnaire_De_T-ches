@@ -1,16 +1,17 @@
 body {
 
-    background-color: rgb(55, 78, 103);
+    background: rgb(123, 69, 137);
+
 }
 
 .banner {
-    background-color: rgb(55, 78, 103);
+    background-color:rgba(87, 205, 174, 0.361);
     height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-}
+} 
 
 form {
     display: flex;
@@ -21,8 +22,7 @@ form {
     display: flex;
     width: 61px;
     height: 22px;
-    background-color: #2ca482;
-    text-decoration-color: #69de3e;
+    background-color:rgb(238, 100, 203);
     border-radius: 0px;
     justify-content: center;
     align-items: center;
@@ -45,10 +45,10 @@ form {
 
 ul li{
   border-radius: 1%;
-  border-color: rgb(174, 26, 26);
-  background-color: #407f6d;
-  padding: 25%;
-  margin: 8%;
+  border-color: rgb(123, 69, 137);
+  background-color: rgb(123, 69, 137);
+  padding: 16%;
+  margin: 7%;
   height: 5%;
   width: 206%;
   list-style: none;
